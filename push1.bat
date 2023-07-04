@@ -4,6 +4,5 @@ git checkout -b "%a1%"
 git add .
 git commit -m "added_ "%a1%""
 git remote add origin https://github.com/aa3110/q2.git
-git push --set-upstream origin "%a1%"
 git push --force origin
 pause
