@@ -8,7 +8,7 @@ from t_rstd import rstd
 from t_sma import sma
 
 
-fkt1=[];fkt2=[]
+(fkt1,fkt2)=([],[])
 
 fkt1.append(multisma)
 fkt1.append(multibb)

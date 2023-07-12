@@ -17,6 +17,6 @@ def bus_cr(dep='depot1'):
   
   file_save('depot_out1',da) 
     
-  return 
+  return
 
 bus_cr('depot1')
